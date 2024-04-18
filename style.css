@@ -1,0 +1,25 @@
+body{
+  height: 400vh;
+}
+
+section{
+  margin-top: 200px;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+}
+
+.marquee{
+  width: 100%;
+}
+
+.el{
+  height: 240px;
+  width: 240px;
+  margin-bottom: 100px;
+  background-color: cornflowerblue;
+}
+
+h1{
+  font-size: 50px;
+}
